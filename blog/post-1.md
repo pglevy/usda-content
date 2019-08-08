@@ -3,7 +3,7 @@ title: A Note from Secretary Perdue on the President’s Budget
 date: Aug 01, 2019
 author: Sonny Perdue
 category: Budget
-feature image: [url=https://flic.kr/p/2fF72JS][img]https://live.staticflickr.com/65535/47700207162_052a0a7728_b.jpg[/img][/url][url=https://flic.kr/p/2fF72JS]20190501-OSEC-LSC-0076[/url] by [url=https://www.flickr.com/photos/usdagov/]U.S. Department of Agriculture[/url], on Flickr
+feature image: https://live.staticflickr.com/65535/47700207162_052a0a7728_b.jpg
 ---
 
 Hello USDA Family –  
